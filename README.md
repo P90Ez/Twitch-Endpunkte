@@ -5,7 +5,7 @@
 
 Der Sourcecode zur [Twitch Endpunkt Tutorial Reihe](https://p90ez.com/pl/twitchendpunkte).
 
-## [IRC](https://github.com/P90Ez/Twitch-Endpunkte/IRC)
+## [IRC](https://github.com/P90Ez/Twitch-Endpunkte/tree/main/IRC)
 **Video folgt...**
 
 ## API
