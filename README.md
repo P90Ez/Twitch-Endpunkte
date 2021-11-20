@@ -5,14 +5,14 @@
 
 Der Sourcecode zur [Twitch Endpunkt Tutorial Reihe](https://p90ez.com/pl/twitchendpunkte).
 
-##[IRC](https://github.com/P90Ez/Twitch-Endpunkte/IRC)
-Video folgt...
+## [IRC](https://github.com/P90Ez/Twitch-Endpunkte/IRC)
+**Video folgt...**
 
-##API
+## API
 --comming soon--
 
-#PUBSUB
+## PUBSUB
 --comming soon--
 
-##EVENTSUB
+## EVENTSUB
 --comming soon--
