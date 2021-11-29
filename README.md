@@ -17,3 +17,10 @@ Der Sourcecode zur [Twitch Endpunkt Tutorial Reihe](https://p90ez.com/pl/twitche
 
 ## EVENTSUB
 --comming soon--
+
+
+### Wichtige Links
+Twitch Dokumentation: https://dev.twitch.tv/docs/
+OAuth generieren: https://twitchapps.com/tmi/
+APP Token generieren: https://twitchapps.com/tokengen/
+Json to C#: https://json2csharp.com/
