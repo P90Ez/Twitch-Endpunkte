@@ -20,7 +20,7 @@ Der Sourcecode zur [Twitch Endpunkt Tutorial Reihe](https://p90ez.com/pl/twitche
 
 
 ### Wichtige Links
-Twitch Dokumentation: https://dev.twitch.tv/docs/ \n
-OAuth generieren: https://twitchapps.com/tmi/ \n
-APP Token generieren: https://twitchapps.com/tokengen/ \n
-Json to C#: https://json2csharp.com/ 
+<p>Twitch Dokumentation: https://dev.twitch.tv/docs/</p>
+<p>OAuth generieren: https://twitchapps.com/tmi/</p>
+<p>APP Token generieren: https://twitchapps.com/tokengen/</p>
+<p>Json to C#: https://json2csharp.com/ </p>
