@@ -12,8 +12,9 @@ Der Sourcecode zur [Twitch Endpunkt Tutorial Reihe](https://p90ez.com/pl/twitche
 ## [API](https://github.com/P90Ez/Twitch-Endpunkte/tree/main/API)
 --Video bald verfügbar--
 
-## PUBSUB
---comming soon--
+## [PUBSUB](https://github.com/P90Ez/Twitch-Endpunkte/tree/main/PubSub)
+<p>Veraltet, Bessere Alternative: EventSub</P>
+<p>--Video bald verfügbar--</p>
 
 ## EVENTSUB
 --comming soon--
