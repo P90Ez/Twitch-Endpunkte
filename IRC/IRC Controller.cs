@@ -22,6 +22,7 @@ namespace Twitch_IRC
             _nick = nick;
             _oauth = oath;
             _channel = channel;
+            Program.MessageSent += ChatWriter;
             Start();
         }
         private void Start()
@@ -49,7 +50,6 @@ namespace Twitch_IRC
                             {
                                 case "001": //001 = Erfolgreich verbunden -> dem Chat des Kanal joinen
                                     IRCWriter($"JOIN #{_channel}");
-                                    Program.MessageSent += ChatWriter;
                                     break;
                                 case "PRIVMSG": //:<user>!<user>@<user>.tmi.twitch.tv PRIVMSG #<channel> :This is a sample message
                                     string user = splitinput[0].Split('!')[0].Remove(0, 1); //funktioniert nur wenn tags, commands und membership nicht angefordert wurden
