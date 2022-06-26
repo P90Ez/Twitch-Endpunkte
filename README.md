@@ -10,7 +10,8 @@ Der Sourcecode zur [Twitch Endpunkt Tutorial Reihe](https://p90ez.com/pl/twitche
 [![Twitch IRC Tutorial C# Deutsch](http://img.youtube.com/vi/_hs0MF7MPAc/maxresdefault.jpg)](https://www.youtube.com/watch?v=_hs0MF7MPAc)
 
 ## [API](https://github.com/P90Ez/Twitch-Endpunkte/tree/main/API)
---Video bald verfügbar--
+### Schau das Tutorial: https://youtu.be/X1vRpXwh_lk
+[![Twitch API Tutorial C# Deutsch](http://img.youtube.com/vi/X1vRpXwh_lk/maxresdefault.jpg)](https://youtu.be/X1vRpXwh_lk)
 
 ## [PUBSUB](https://github.com/P90Ez/Twitch-Endpunkte/tree/main/PubSub)
 --Video bald verfügbar--
